@@ -1,0 +1,39 @@
+.sideBar {
+  position: absolute;
+  width: 12%;
+  height: 17px;
+  left: 100px;
+  top: 155px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 39px;
+  letter-spacing: 0.05em;
+  color: #9a9a9a;
+  text-align: left;
+  /* background-color: blue; */
+}
+.sideBarHeading {
+  position: absolute;
+  width: 73px;
+  height: 20px;
+  left: 51px;
+  top: 51px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  color: #161616;
+}
+.sideBarFooter {
+  position: relative;
+  top: 190px;
+}
+.imageContainer {
+  display: flex;
+}
+.imageContainer img {
+  margin-right: 14px;
+}

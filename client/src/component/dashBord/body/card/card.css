@@ -1,0 +1,26 @@
+.card_title {
+  font-weight: bold;
+  text-align: left;
+  margin-left: 25px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  padding-top: 10px;
+}
+.card_description {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 25px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  margin-right: 20px;
+  overflow: hidden;
+  padding-top: 10px;
+}
+.card_content {
+  background-color: white;
+  width: 80%;
+  position: relative;
+  left: 10%;
+  border-radius: 10px;
+  height: 150px;
+}

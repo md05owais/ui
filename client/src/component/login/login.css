@@ -1,0 +1,61 @@
+button {
+  width: 55%;
+}
+p {
+  padding-top: 2%;
+}
+hr {
+  width: 50%;
+  position: relative;
+  right: 5%;
+}
+.hr {
+  padding-top: 25px;
+  display: flex;
+  flex-direction: row;
+}
+.items {
+  width: 50%;
+  position: relative;
+  left: 25%;
+}
+
+.login_signup {
+  background: #ffffff;
+  border: 2px solid rgba(26, 59, 88, 0.24);
+  border-radius: 65px;
+  position: absolute;
+  width: 40%;
+  height: 80%;
+  left: 50%;
+  top: 5%;
+}
+.Continue {
+  text-align: left;
+  position: relative;
+  left: 20%;
+  gap: 0px;
+}
+.Continue h1 {
+  position: relative;
+  top: 10px;
+}
+.Continue p {
+  position: relative;
+  bottom: 12px;
+}
+.vision1 {
+  position: relative;
+  left: 49%;
+  bottom: 58px;
+}
+.show {
+  color: red;
+  display: flex;
+  position: relative;
+  left: 30%;
+  gap: 8px;
+}
+.hidden {
+  display: none;
+}

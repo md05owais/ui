@@ -1,0 +1,74 @@
+input {
+  /* position: relative; */
+  padding: 10px;
+  /* padding-top: 25px; */
+  width: 55%;
+  background: #ffffff;
+  border: 1px solid #cbdbea;
+  border-radius: 8px;
+  margin: 12px;
+}
+span {
+  color: red;
+  
+}
+button {
+  /* margin: 0px 10px 10px 10px; */
+  /* margin-top: 0px; */
+  background: #329c89;
+  color: white;
+  height: 40px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.form {
+  width: 90%;
+  /* height: 100vh; */
+  align-items: center;
+}
+.vision {
+  position: relative;
+  left: 23%;
+  bottom: 45px;
+}
+.link_signup_login {
+  display: flex;
+  /* flex-direction: row; */
+  /* flex-wrap: nowrap; */
+  margin-left: 11%;
+  /* left: 61px; */
+  margin-top: 12%;
+  /* top: 88px; */
+}
+
+.LeftContainer {
+  width: 477.11px;
+  height: 420px;
+  top: 229px;
+  left: 108.44px;
+  position: relative;
+  left: 10.74%;
+  right: 59.62%;
+  top: 100px;
+  /* bottom: 27.89%; */
+  background: #f8f8f8;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 2%;
+  height: 0px;
+  border: 1px solid rgba(64, 145, 223, 0.12);
+}
+h2 {
+  width: 80px;
+
+  padding-right: 2%;
+}
+.other {
+  color: rgba(26, 59, 88, 0.33);
+}
+.black {
+  color: black;
+  text-decoration: underline;
+}

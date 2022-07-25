@@ -1,0 +1,35 @@
+.column {
+  position: relative;
+  width: 318px;
+  min-height: 70vh;
+  max-height: inherit;
+  left: 370px;
+  top: 120px;
+  background: #f5f9f9;
+  border-radius: 15px;
+  height: 100%;
+  /* background-color: red; */
+}
+.counter {
+  width: auto;
+  height: 30px;
+  background: #ecf3f3;
+  border-radius: 7px;
+}
+.counter-Task {
+  margin: 6%;
+  padding-top: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background: #ecf3f3;
+  border-radius: 7px;
+  width: 80%;
+}
+.allColumn {
+  display: flex;
+  gap: 4%;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+}

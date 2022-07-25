@@ -1,0 +1,51 @@
+.editable {
+  width: 100%;
+}
+.editable_display {
+  background-color: white;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.editable_display:hover {
+  background-color: #ccc;
+}
+
+.editable_edit {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.editable_edit {
+  border-radius: 3px;
+  outline: none;
+  background-color: 1px solid cyan;
+  padding: 10px;
+  font: 1rem;
+}
+
+.button {
+  background: #ecf3f3;
+  border-radius: 7px;
+  width: 80%;
+  position: relative;
+  /* left: 10%; */
+}
+.AddButton {
+  width: 60px;
+}
+textarea {
+  border-radius: 6px;
+}
+.editable_edit input {
+  position: relative;
+  left: 10%;
+}
+.buttonCross {
+  display: flex;
+  gap: 15px;
+}
+.cross {
+  position: relative;
+  top: 15px;
+}
